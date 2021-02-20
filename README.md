@@ -5,4 +5,5 @@
 This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International.
 To view the license following the link. http://creativecommons.org/licenses/by-nc-nd/4.0/
 
-You are not allowed to redistribute any changes to this project.
+You are allowed to redistribute this injector with credits.
+You are not allowed to redistribute MODIFIED versions of this injector.
